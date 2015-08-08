@@ -1,0 +1,6 @@
+pa {
+	poi             	:few]Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+	oweifI          	:Ewl
+	Ewo             	:Ewwal
+	kwaefewlwefklwef	:aefewooo
+}
